@@ -1,0 +1,14 @@
+{
+    "web_apps": [
+        {
+            "manifest": "https://mandymsft.github.io/pwa/manifest.json",
+            "details": {
+                "paths": ["/target*"],
+                "exclude_paths": []
+            }
+        },
+        {
+            "manifest": "https://luhuangmsft.github.io/pwa/manifest.json"
+        }
+    ]
+}
