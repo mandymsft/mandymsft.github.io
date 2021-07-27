@@ -3,7 +3,7 @@
         {
             "manifest": "https://mandymsft.github.io/pwa/manifest.json",
             "details": {
-                "paths": ["/pwa/target", "/pwa/404"],
+                "paths": ["*"],
                 "exclude_paths": []
             }
         },
